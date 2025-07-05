@@ -2,6 +2,8 @@
 
 A Streamlit-based machine learning app that predicts the likelihood of an individual seeking mental health treatment based on personal and workplace factors.
 
+🔗 Live app: [Launch App](https://mental-health-predictor-3awvy97txhyhei2sdj2frg.streamlit.app/)
+
 ![App Banner](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww)  
 > _Built with ❤️ using Logistic Regression and public survey data_
 

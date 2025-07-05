@@ -2,7 +2,7 @@
 
 A Streamlit-based machine learning app that predicts the likelihood of an individual seeking mental health treatment based on personal and workplace factors.
 
-![App Banner]([https://images.unsplash.com/photo-1557683316-973673baf926](https://images.unsplash.com/photo-1557683316-973673baf926))  
+![App Banner](https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww)  
 > _Built with ❤️ using Logistic Regression and public survey data_
 
 ---
@@ -13,7 +13,7 @@ A Streamlit-based machine learning app that predicts the likelihood of an indivi
 - **Logistic Regression** model trained on real mental health survey data
 - Interactive form for users to input workplace and personal attributes
 - Visual explanation of model performance (confusion matrix, reports)
-- Deployed as a web app (or ready for deployment)
+- Deployed as a web app
 
 ---
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 ## 📬 Contact
 
-For feedback or collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/shravankulkarni1004)
+For feedback or collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/shravan-kulkarni-966586288/)
 
 ---
 

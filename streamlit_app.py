@@ -23,7 +23,7 @@ st.markdown(
 
 
 # Optional: Add a banner image (place a local image or link to hosted image)
-st.image("https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww", use_container_width =True)  # Replace with your own if needed
+st.image("https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww", use_column_width =True)  # Replace with your own if needed
 
 # Title and intro
 st.title("🧠 Mental Health Treatment Predictor")

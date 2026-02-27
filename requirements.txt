@@ -4,5 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 joblib
+<<<<<<< HEAD
 streamlit==1.30.0
+=======
+streamlit
+>>>>>>> e5936f79818fe17021e9e575b4686098cd384e6b
 altair==4.2.2

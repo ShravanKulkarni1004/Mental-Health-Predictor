@@ -5,7 +5,6 @@ import joblib
 
 st.set_page_config(page_title="Mental Health Predictor", layout="centered")
 
-st.set_page_config(page_title="Mental Health Predictor", layout="centered")
 
 # 🔽 Background image CSS injected here
 st.markdown(
@@ -36,7 +35,12 @@ st.markdown(
 st.divider()
 
 # Load trained model
-model = joblib.load("models/logreg_model.joblib")
+# model = joblib.load("models/logreg_model.joblib")
+@st.cache_resource
+def load_model():
+    return joblib.load("models/logreg_model.joblib")
+
+model = load_model()
 
 # 👤 Personal & Work-Related Information
 st.subheader("📋 User Information")
